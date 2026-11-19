@@ -71,6 +71,19 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "python-testing-pytest",
+      "title": "Testing Python Code with pytest",
+      "description": "Write and run automated tests with pytest: assertions, exceptions, and parametrized tests",
+      "path": "assignments/python-testing-pytest",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
